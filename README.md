@@ -1,4 +1,4 @@
-![GPT Chatbot Banner](gpt-chatbot-banner.png)
+![GPT Chatbot Banner](gpt-chatbot-banner-compact.png)
 
 
 # 🧠 Text Generation Chatbot using Transformers
